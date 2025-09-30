@@ -1,2 +1,2 @@
 # Chipyard
-Tóm tắt ChipYard
+Tóm tắt Chipyard
